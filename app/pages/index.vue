@@ -1,7 +1,7 @@
 <template>
 	<div class="wrapper">
 		<h1>Welcome to the Nuxt App</h1>
-		<p>This is the home page of the Nuxt App. It's basically a simple page.</p>
+		<p>This is the home page of the Nuxt App. It's basically a simple page to demonstrate the basic structure of a Nuxt.js application.</p>
 	</div>
 </template>
 
