@@ -17,7 +17,7 @@ body {
 	height: 100dvh;
 }
 h1 {
-	color: #236964;
+	color: #9de4cd;
 	font-family: "Arial", sans-serif;
 	text-align: center;
 	margin-top: 50px;
