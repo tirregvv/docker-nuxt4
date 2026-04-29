@@ -26,6 +26,7 @@ h1 {
 }
 p {
 	font-size: 1.2em;
+	line-height: 1.5;
 	margin-top: 20px;
 	max-width: 600px;
 }
