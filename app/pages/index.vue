@@ -27,5 +27,6 @@ h1 {
 p {
 	font-size: 1.2em;
 	margin-top: 20px;
+	max-width: 600px;
 }
 </style>
